@@ -2363,7 +2363,7 @@ body {
 }
 #custom-html-1l h2 {
   padding: 0 160px;
-  font-size: 32px;
+  font-size: 3vw;
   text-shadow: 1px 1px #000;
   color: #193365;
   font-family: montserrat;
@@ -2371,7 +2371,7 @@ body {
 }
 #custom-html-1l h3 {
   padding: 0 160px;
-  font-size: 18px;
+  font-size: 1.5vw;
   text-shadow: 1px 1px #000;
   color: #193365;
   font-family: montserrat;
